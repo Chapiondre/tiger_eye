@@ -1,1 +1,1 @@
-alert( 'Привет, мир!' );
+console.log('good mornin fuckin moron')
