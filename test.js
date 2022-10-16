@@ -82,3 +82,16 @@ if (login == 'Админ') {
 } else {
     alert('Ты кто такой я вас не звал')
 }
+
+//Перепишите функцию, используя оператор '?' или '||'
+
+function checkAge(age) {
+    return age > 18 ? true : confirm('Родители разрешили?')
+}
+
+//Функция min(a, b)
+
+function (a, b) {
+    return (a < b) ? a : (a > b) ? b : (a = b) ? "Равны" : "чзнх"
+}
+
